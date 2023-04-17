@@ -46,3 +46,20 @@ body {
   width: auto;
   margin: 1rem auto;
 }
+
+.footer {
+  margin-top: 1.5rem;
+}
+
+.footer a {
+  padding-left: 2rem;
+  text-decoration: none;
+}
+
+.footer address {
+  padding-left: 2rem;
+}
+
+.footer span {
+  padding-left: 2rem;
+}
